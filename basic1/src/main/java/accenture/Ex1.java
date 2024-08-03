@@ -11,5 +11,6 @@ public class Ex1 {
         String lname = s.next();
 
         System.out.println("\nHello \n"+fname+" "+lname);
+        System.out.println( 101 * Math.pow(10, 2));
     }
 }
